@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+  <h2>Hi, I'm Isuru</h2>
+  <p>Backend dev in training • Linux (i3 + Hyprland) • Neovim + LazyVim</p>
 
-<!--
-**IsuruG99/IsuruG99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mongodb,firebase,neovim,linux" alt="Skills" />
 
-Here are some ideas to get you started:
+  <br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://www.sliit.lk/"><img src="https://img.shields.io/badge/SLIIT-University-blue?logo=google-scholar&logoColor=white&style=flat" alt="SLIIT"></a>
+  <a href="https://www.beds.ac.uk/"><img src="https://img.shields.io/badge/University%20of%20Bedfordshire-Study%20Abroad-blue?logo=google-scholar&logoColor=white&style=flat" alt="UoB"></a>
+
+  <br><br>
+
+  Seeking backend internship • Building my first portfolio
+</div>
