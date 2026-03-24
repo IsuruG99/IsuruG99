@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hi, I'm Isuru</h2>
-  <p>Backend dev in training • Linux (i3 + Hyprland) • Neovim + LazyVim</p>
+  <p>Backend dev in training • Arch Linux (Hyprland) • Neovim + LazyVim</p>
 
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mongodb,firebase,neovim,linux" alt="Skills" />
 
