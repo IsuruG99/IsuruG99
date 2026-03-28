@@ -3,7 +3,7 @@
   <p>Backend • Fresh Grad</p>
   <p>Arch Linux • Neovim • Hyprland</p>
   <p>Seeking internship • Experimenting </p>
-  <a href="https://www.google.com" style="color=#ffffff">Portfolio<a>
+  <a>Portfolio (Work in Progress)<a> 
 
   <h3>Familiarity</h2>
   <div>
